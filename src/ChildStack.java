@@ -1,3 +1,8 @@
+/**
+ * Praktikums Aufgaben
+ * @Author - Tim Heinsberg (Matrikel Nummer: 11154817)
+ *         - Kevin Becker  (Matrikel Nummer: 11158331)
+ */
 public class ChildStack extends Stack{
     public ChildStack(int stackSize,int startValue){
         super(stackSize);
