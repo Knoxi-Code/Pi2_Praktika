@@ -13,7 +13,7 @@ public class Main {
         int selected;
         loop:
         while (true) {
-            selected = readValue("Wählen Sie eine Der Möglichkeiten:\n1) Push\n2 Push Array\n3) Pop\n4) Print\n5) Stack leer\n6) Beenden", 1, 6);
+            selected = readValue("Wählen Sie eine Der Möglichkeiten:\n1) Push\n2) Push Array\n3) Pop\n4) Print\n5) Stack leer\n6) Beenden", 1, 6);
             switch (selected) {
                 case 1:
                     System.out.println(stack.push(readValue("geben Sie den zu Pushenden Wert ein: ")));
