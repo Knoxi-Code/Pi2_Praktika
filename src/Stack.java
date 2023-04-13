@@ -1,3 +1,8 @@
+/**
+ * Praktikums Aufgaben
+ * @Author - Tim Heinsberg (Matrikel Nummer: 11154817)
+ *         - Kevin Becker  (Matrikel Nummer: 11158331)
+ */
 public class Stack {
     protected int[] stack;
     protected int top;
